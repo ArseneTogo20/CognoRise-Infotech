@@ -1,2 +1,2 @@
-# CognoRise-Infotech
-this is the intership repository at CognoRise Infotech
+# CognoRise Infotech
+this is the intership at CognoRise Infotech  repository
